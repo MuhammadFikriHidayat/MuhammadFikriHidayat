@@ -12,7 +12,7 @@ aplikasi mobile menggunakan Engine Unity 3D.
 
 ## Contact
 
-<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad_fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad"_"fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://web.facebook.com/muhammad.fikri" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="linkedin.com/in/muhammad-fikri-hidayatullah-2b0863280" target="_blank">![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:muhammadfikri.mfh079@gmail.com" target="_blank">![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
