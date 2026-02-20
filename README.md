@@ -12,7 +12,7 @@ aplikasi mobile menggunakan Engine Unity 3D.
 
 ## Contact
 
-<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad"_"fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad_fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://web.facebook.com/muhammad.fikri" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="linkedin.com/in/muhammad-fikri-hidayatullah-2b0863280" target="_blank">![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:muhammadfikri.mfh079@gmail.com" target="_blank">![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -39,14 +39,14 @@ aplikasi mobile menggunakan Engine Unity 3D.
 
 ---
 
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=ADDFa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=MuhammadFikriHidayat&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=ADDFa&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikriHidayat&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
 ---
 
-Credits: [ADDFa](https://github.com/ADDFa)
+Credits: [Muhammad Fikri Hidayat](https://github.com/MuhammadFikriHidayat)
 
-Last Edited on: 02 - Jan - 2023
+Last Edited on: 20 - Feb - 2026
