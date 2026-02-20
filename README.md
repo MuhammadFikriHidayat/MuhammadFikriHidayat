@@ -12,17 +12,17 @@ aplikasi mobile menggunakan Engine Unity 3D.
 
 ## Contact
 
-<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad_fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/muhammadfikri_hidayat/" target="_blank">![Instagram](https://img.shields.io/badge/muhammad__fikrihidayat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://web.facebook.com/fikri.h.9" target="_blank">![Facebook](https://img.shields.io/badge/Muhammad_Fikri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="linkedin.com/in/muhammad-fikri-hidayatullah-2b0863280" target="_blank">![Facebook](https://img.shields.io/badge/Muhammad_Fikri_Hidayatullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:muhammadfikri.mfh079@gmail.com" target="_blank">![Facebook](https://img.shields.io/badge/muhammadfikri.mfh079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="linkedin.com/in/muhammad-fikri-hidayatullah-2b0863280" target="_blank">![LinkedIn](https://img.shields.io/badge/Muhammad_Fikri_Hidayatullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:muhammadfikri.mfh079@gmail.com" target="_blank">![GMail](https://img.shields.io/badge/muhammadfikri.mfh079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
 ### Languages and Tools
 
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Golang](https://img.shields.io/badge/Golang-%2343853D.svg?style=for-the-badge&logo=goland&logoColor=blue)
+![C#](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
