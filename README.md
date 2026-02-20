@@ -22,7 +22,7 @@ aplikasi mobile menggunakan Engine Unity 3D.
 ### Languages and Tools
 
 ![Golang](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=goland&logoColor=blue)
-![C#](https://img.shields.io/badge/C#-%23323330.svg?style=for-the-badge)
+![C#](https://img.shields.io/badge/C#-FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
